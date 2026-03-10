@@ -22,11 +22,10 @@ https://your-username.github.io/
 ## 🔭 What I'm Currently Working On 
 
 - **Project:** Nigeria Inter‑Bank Settlement System (NIBSS) Fraud Detection  
-- **Content Creation:** Developing tutorials and write-ups on data analysis and visualization.
+
 
 ## 🌱 Currently Learning 
-
-- Advanced machine learning techniques in Scikit-learn  
+ 
 - Cloud data warehousing and analytics (e.g., BigQuery, Azure, or AWS data tools)
 
 ## 🛠️ Technical Skillset

@@ -17,7 +17,7 @@ When I'm not working with data, I enjoy swimming, watching F1 racing, reading, r
 
 ### 🏆 Check Out My Full Portfolio Website
 <!-- Replace with your real portfolio URL when ready -->
-https://your-username.github.io/
+https://bialose.github.io/
 
 ## 🔭 What I'm Currently Working On 
 
